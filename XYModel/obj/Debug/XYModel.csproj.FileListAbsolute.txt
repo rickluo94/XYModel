@@ -1,0 +1,8 @@
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\bin\Debug\XYModel.dll
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\bin\Debug\XYModel.pdb
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\bin\Debug\SteLib.dll
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\obj\Debug\XYModel.csprojAssemblyReference.cache
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\obj\Debug\XYModel.csproj.CoreCompileInputs.cache
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\obj\Debug\XYModel.csproj.CopyComplete
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\obj\Debug\XYModel.dll
+C:\Users\edcrf\Documents\GitHub\liftStorage_MultipleExport\STE_Lift_WMS_System\XYModel\obj\Debug\XYModel.pdb
